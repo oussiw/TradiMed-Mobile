@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تراديميد</string>
+    <string name="Hanburger_name_Settings">اللغات</string>
+    <string name="Hanburger_name_About">حول التطبيق</string>
+    <string name="Hanburger_name_Help">مساعدة</string>
+    <string name="Hanburger_name_Contact">الاتصال</string>
+    <string name="activity_name_contacts">صفحة الاتصال</string>
+    <string name="Hanburger_name_Credits">الاعتمادات</string>
+    <string name="activity_name_result">وصفتك الطبية:</string>
+    <string name="temp_prescription_title">فحص جديد</string>
+    <string name="btn_original">إرجاع</string>
+    <string name="btn_translate">ترجمة</string>
+    <string name="btn_camera">الة تصوير</string>
+    <string name="btn_gallery">معرض الصور</string>
+    <string name="open">فتح</string>
+    <string name="close">اغلاق</string>
+    <string name="editDialog_title">تغيير العنوان:</string>
+    <string name="editDialog_positive_btn">تغيير</string>
+    <string name="editDialog_negative_btn">الغاء</string>
+    <string name="editDialog_hint">عنوان جديد</string>
+    <string name="quitDialog_title">حذاري!</string>
+    <string name="quitDialog_message">هل أنت متأكد أنك تريد إلغاء التسجيل؟</string>
+    <string name="quitDialog_positive_btn">أكد</string>
+    <string name="quitDialog_negative_btn">الغاء</string>
+    <string name="deleteDialog_title">حذاري!</string>
+    <string name="deleteDialog_message">هل أنت متأكد أنك تريد حذف هذه الوصفة الطبية؟</string>
+    <string name="deleteDialog_positive_btn">أكد</string>
+    <string name="deleteDialog_negative_btn">الغاء</string>
+    <string name="toast_deleted_prescription">تم حذف الطلب!</string>
+    <string name="toast_saved_prescription">تم تسجيل الطلب!</string>
+    <string name="toast_no_text_found">لم يتم الكشف عن نص!</string>
+    <string name="toast_renamed_prescription">وصفة طبية أعيدت تسميتها!</string>
+    <string name="toast_renamed_prescription_failed">العنوان الذي أدخلته غير صالح !!</string>
+    <string name="activity_name_credits">معلومات المؤلفين:</string>
+    <string name="activity_name_help">صفحة المساعدة:</string>
+    <string name="activity_name_about">معلومات عن التطبيق</string>
+    <string name="about_page_content">يتيح هذا التطبيق ترجمة الوصفات الطبية من الفرنسية إلى العربية. كما يسمح لك بحفظ الوصفات الطبية أو إعادة تسميتها أو مشاركتها بكلتا اللغتين.</string>
+    <string name="credits_page_content">تم تطوير هذا التطبيق من قبل طلاب الهندسة علي محمدي العلوي وأسامة سيوان تحت إشراف الأستاذ كريم بوزوبع. تم التحقق من المحتوى العلمي للمصطلحات الطبية وترجمتها من قبل الدكتور عدنان التازي.</string>
+    <string name="help_page_content">xxxxxxxxxx@xxxx.xxxx</string>
+    <string name="contact_page_content">للسماح لنا بتحسين هذا التطبيق ، يرجى إعلامنا بأي خطأ أو اقتراح أو غير ذلك من خلال إرسال رسالة إلينا على العناوين التالية:</string>
+    <string name="toast_email_copied">تم نسخ العنوان.</string>
+
+    <string-array name="spinner_items">
+        <item>الترتيب حسب عنوان</item>
+        <item>فرز حسب التاريخ / الأحدث</item>
+        <item>فرز حسب التاريخ / أقدم</item>
+    </string-array>
+
+    <string name="languageDialog_title">تغيير اللغة:</string>
+    <string-array name="language_choice">
+        <item>الفرنسية</item>
+        <item>العربية</item>
+    </string-array>
+
+    <string name="menu_description" translatable="true">مترجم الوصفات الطبية من الفرنسية إلى العربية</string>
+
+    <string name="menu_rename">إعادة تسمية</string>
+    <string name="menu_share">مشاركة</string>
+    <string name="menu_delete">إزالة</string>
+
+    <string name="toast_original_text">النص الأصلي</string>
+    <string name="toast_translated_text">نص مترجم</string>
+
+    <string name="btn_backup">حذف \nالتغييرات</string>
+
+    <string name="createdOn">أنشأ:</string>
+    <string name="notPrescDialog_title">Attention!</string>
+    <string name="notPrescDialog_message">Aucun terme medical trouvé.</string>
+    <string name="notPrescDialog_positive_btn">Ok</string>
+
+</resources>

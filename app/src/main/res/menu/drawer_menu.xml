@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:menuCategory="secondary">
+        <item
+            android:id="@+id/ic_settings"
+            android:icon="@drawable/ic_language_black_24dp"
+            android:title="@string/Hanburger_name_Settings" />
+    </group>
+    <group
+        android:menuCategory="container">
+        <item
+            android:id="@+id/ic_info"
+            android:icon="@drawable/ic_info_menu"
+            android:title="@string/Hanburger_name_About" />
+        <item
+            android:id="@+id/ic_credits"
+            android:icon="@drawable/ic_copyright_menu"
+            android:title="@string/Hanburger_name_Credits" />
+        <item
+            android:id="@+id/ic_contact"
+            android:icon="@drawable/ic_message_menu"
+            android:title="@string/Hanburger_name_Contact" />
+    </group>
+
+</menu>

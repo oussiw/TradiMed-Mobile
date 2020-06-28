@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Tradimed</string>
+
+    <!-- Hamburger items -->
+    <string name="Hanburger_name_Settings">Langues</string>
+    <string name="Hanburger_name_About">À propos</string>
+    <string name="Hanburger_name_Help">Aide</string>
+    <string name="Hanburger_name_Contact">Contact</string>
+    <string name="Hanburger_name_Credits">Crédit</string>
+    <!-- End -->
+
+    <!-- Result page -->
+    <string name="activity_name_result">Votre ordonnance:</string>
+    <string name="temp_prescription_title">Nouveau scan</string>
+    <string name="btn_original">Français</string>
+    <string name="btn_translate">Arabe</string>
+    <!-- End -->
+
+    <string name="btn_camera">Caméra</string>
+    <string name="btn_gallery">Galerie</string>
+
+    <string name="open">Ouvrir</string>
+    <string name="close">Fermer</string>
+
+    <string name="menu_description" translatable="true">Traducteur pour ordonnances médicales</string>
+    <string name="splash_content_fr" translatable="false">Traducteur pour ordonnances médicales</string>
+    <string name="splash_content_ar" translatable="false">مترجم الوصفات الطبية من الفرنسية إلى العربية</string>
+
+
+    <string-array name="spinner_items">
+        <item>Trier par titre / A-Z</item>
+        <item>Trier par date / Plus récent</item>
+        <item>Trier par date / Plus ancient</item>
+    </string-array>
+
+    <!-- Edit Dialog box -->
+    <string name="languageDialog_title">Modifier la langue:</string>
+    <string-array name="language_choice">
+        <item>Français</item>
+        <item>Arabe</item>
+    </string-array>
+    <!-- End -->
+    <!-- Edit Dialog box -->
+    <string name="editDialog_title">Modifier le titre:</string>
+    <string name="editDialog_positive_btn">Renommer</string>
+    <string name="editDialog_negative_btn">Annuler</string>
+    <string name="editDialog_hint">Nouveau titre</string>
+    <!-- End -->
+
+    <!-- Quit Dialog box -->
+    <string name="quitDialog_title">Attention!</string>
+    <string name="quitDialog_message">Voulez vous vraiment retourner?</string>
+    <string name="quitDialog_positive_btn">Confirmer</string>
+    <string name="quitDialog_negative_btn">Annuler</string>
+    <!-- End -->
+    <!-- Quit Dialog box -->
+    <string name="notPrescDialog_title">Attention!</string>
+    <string name="notPrescDialog_message">Aucun terme medical trouvé.</string>
+    <string name="notPrescDialog_positive_btn">Ok</string>
+    <!-- End -->
+
+    <!-- Delete Dialog box -->
+    <string name="deleteDialog_title">Attention!</string>
+    <string name="deleteDialog_message">Voulez vous vraiment supprimer cette ordonnance?</string>
+    <string name="deleteDialog_positive_btn">Supprimer</string>
+    <string name="deleteDialog_negative_btn">Annuler</string>
+    <!-- End -->
+
+
+    <!-- Toast messages -->
+    <string name="toast_deleted_prescription">Ordonnance supprimée!</string>
+    <string name="toast_saved_prescription">Ordonnance enregistrée!</string>
+    <string name="toast_no_text_found">Pas de text détécté!</string>
+    <string name="toast_renamed_prescription">Ordonnance renommée!</string>
+    <string name="toast_renamed_prescription_failed">Le titre que vous avez saisi n\'est pas valide!!</string>
+    <string name="toast_original_text">Text original</string>
+    <string name="toast_translated_text">Text traduit</string>
+
+    <!-- End -->
+
+    <!-- Contact page -->
+    <string name="activity_name_contacts">Contact</string>
+    <string name="contact_page_content">
+        Veuillez nous signaler toute erreur ou nous faire part de vos suggestions en nous envoyant un email sur:
+    </string>
+    <string name="email_contact1" translatable="false">karim.bouzoubaa@emi.ac.ma</string>
+    <string name="email_contact2" translatable="false">karimbouzoubaa@yahoo.com</string>
+    <string name="toast_email_copied">Adresse copiée.</string>
+    <!-- End -->
+
+    <!-- Credits page -->
+    <string name="activity_name_credits">Crédits</string>
+    <string name="credits_page_content">
+        Cette application a été développée par les élèves ingénieurs de l\'Ecole Mohammadia d\'Ingénieurs Ali MHAMMEDI ALAOUI et Oussama SIWANE sous la supervision du professeur à l\'Ecole Mohammadia d\'Ingénieurs Karim Bouzoubaa.\nLe contenu scientifique des termes médicaux et de leur traduction a été validé par Dr Adnane Tazi.
+    </string>
+    <!-- End -->
+
+
+    <!-- Help page -->
+    <string name="activity_name_help">Page d\\\'aide :</string>
+    <string name="help_page_content">xxxxxxxxxxxxxxxxxxx</string>
+    <!-- End -->
+
+
+    <!-- About page -->
+    <string name="activity_name_about">À propos</string>
+    <string name="about_page_content">
+        Cette application permet la traduction des ordonnances médicales du Français vers l\'Arabe. Elle permet aussi
+        d\'enregistrer des ordonnaces médicales, de les renommer, ou de les partager dans les deux langues.    </string>
+    <!-- End -->
+
+    <string name="menu_rename">Renommer</string>
+    <string name="menu_share">Partager</string>
+    <string name="menu_delete">Supprimer</string>
+
+    <string name="btn_backup">Annuler les\nmodifications</string>
+
+    <string name="createdOn">Créé le:</string>
+</resources>

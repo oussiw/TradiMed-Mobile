@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8ac22b</color>
+    <color name="colorPrimaryDark">#009688</color>
+    <color name="colorAccent">#009688</color>
+
+    <color name="colorSecondary">#016386</color>
+    <color name="colorSecondaryDark">#E2E1E1E1</color>
+
+    <color name="gallery_btn_normal">#016386</color>
+    <color name="gallery_btn_click">#960059</color>
+
+    <color name="recycler_prescription">#ebedf0</color>
+    <color name="spinner_sort">#ffffff</color>
+    <color name="transparent">#00FFFFFF</color>
+</resources>
